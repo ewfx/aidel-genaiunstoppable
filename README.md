@@ -136,6 +136,7 @@ Then, use a tool like Postman or curl to test the API by sending a POST request 
 
 ## 🚧 Challenges We Faced
 
+Using the Hugging Face Transformers (GPT-J, LLaMA) – For NLP-based transaction extraction.
 
 
 ## 🏃 How to Run
