@@ -74,9 +74,9 @@ JWT Authentication – For RBAC security.
 
 ## 👥 Team
 
-A.Ravikishore 
-M.Rajshekhar 
-K.Aruna
-P.Lakshmi Sravani 
-N.Shalini
+A.Ravikishore ,
+M.Rajshekhar ,
+K.Aruna ,
+P.Lakshmi Sravani ,
+N.Shalini.
 
