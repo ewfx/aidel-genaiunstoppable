@@ -29,6 +29,18 @@
 
 
 ## ⚙️ What It Does
+Features:
+✅ Transaction Data Extraction – Using GPT-J/LLaMA
+
+✅ Real-Time Risk Evaluation – Based on entity reputation & anomalies
+
+✅ API Endpoint – /process_transaction (Requires JWT authentication)
+
+✅ RBAC Security – Fixed roles (Admin, Auditor)
+
+✅ Logging & Audit Trails – Stores risk scores for compliance
+
+✅ Webhook Support – Alerts for high-risk transactions
 
 
 
