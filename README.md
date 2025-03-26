@@ -25,7 +25,7 @@
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-
+This project was created during the Technology Hackathon 2025 to showcase how AI-driven workflows can improve risk analytics based on entity driven and risk score as well without interfere the manual processes
 
 
 ## ⚙️ What It Does
