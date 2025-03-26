@@ -15,7 +15,7 @@
 
 ## 🎯 Introduction
 
-This project implements an GENAI-powered solution for automating the process of checking the risk score analytics based on entity attributes involved in the unstructured and strucured transactional data.
+This project implements an GENAI-Powered solution to automate the process of checking risk score analytics based on entity attributes involved in the unstructured and strucured transactional data.
 
 ## 🎥 Demo
 🔗 
@@ -25,7 +25,7 @@ This project implements an GENAI-powered solution for automating the process of 
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-This project was created during the Technology Hackathon 2025 to showcase how AI-driven workflows can improve risk analytics based on entity driven and risk score as well without interfere the manual processes
+This project was created during the Technology Hackathon 2025 to showcase how GENAI-driven workflows can improve risk analytics. These are based on entity driven and risk score as well, without interfere the manual processes.
 
 
 ## ⚙️ What It Does
