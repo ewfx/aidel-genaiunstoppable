@@ -15,7 +15,7 @@
 
 ## 🎯 Introduction
 
-
+This project implements an GENAI-powered solution for automating the process of checking the risk score analytics based on entity attributes involved in the unstructured and strucured transactional data.
 
 ## 🎥 Demo
 🔗 
