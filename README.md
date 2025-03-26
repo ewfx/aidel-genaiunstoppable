@@ -61,7 +61,15 @@ curl -X 'POST' 'http://127.0.0.1:8000/process_transaction' \
 
 
 ## 🏗️ Tech Stack
-- 
+Hugging Face Transformers (GPT-J, LLaMA) – For NLP-based transaction extraction.
+
+FastAPI – To expose API endpoints.
+
+PostgreSQL – For logging and audit trails.
+
+Redis/Webhooks – For real-time alerts.
+
+JWT Authentication – For RBAC security.
 
 
 ## 👥 Team
