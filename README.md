@@ -30,6 +30,7 @@ This project was created during the Technology Hackathon 2025 to showcase how GE
 
 ## ⚙️ What It Does
 Features:
+
 ✅ Transaction Data Extraction – Using GPT-J/LLaMA
 
 ✅ Real-Time Risk Evaluation – Based on entity reputation & anomalies
